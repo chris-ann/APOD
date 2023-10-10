@@ -47,6 +47,6 @@ nav {
     grid-template-columns: 2fr 1fr;
 }
 
-.APOD:not(.APOD:first-child) {
+/* .APOD:not(.APOD:first-child) {
     display: none;
-}
+} */
